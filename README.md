@@ -4,7 +4,7 @@
 
 **The Problem**
 
-ParkingSlot aims to solve daily frustrating problems of motorist in Singapore. 
+ParkingSlot aims to solve the daily frustrating problems of motorists in Singapore. 
 1. Lack of packing space
 2. Not sure about parking rates
 3. Troublesome to calculate the total charges that will be incurred
